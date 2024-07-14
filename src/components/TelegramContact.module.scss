@@ -1,0 +1,28 @@
+.TelegramContact{
+    margin: 0 auto;
+
+    .content{
+        .forms{
+            max-width: 400px;
+            width: 100%;
+            height: 340px;
+            // background: white;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+            input{
+                width: 80%;
+                padding: 10px;
+                background: transparent;
+                border-radius: 10px;
+                margin-top: 10px;
+            }
+            button{
+                width: 80%;
+                padding: 10px;
+                background: transparent;
+                border-radius: 10px;
+                margin-top: 10px;
+            }
+        }
+    
+    }
+}
